@@ -30,7 +30,7 @@ namespace Receiver1
                 });
                 config.MessageTopology.SetEntityNameFormatter(new NameFormatter());
 
-                config.ReceiveEndpoint(host, "ordercreated_queue_receiver1", e => 
+                config.ReceiveEndpoint(host, "emailclientnotification_queue", e => 
                 {
                     e.Consumer<OrderCreated1Consumer>();
                     e.Consumer<OrderCreated2Consumer>();

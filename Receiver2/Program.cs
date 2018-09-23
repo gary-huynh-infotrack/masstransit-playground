@@ -29,7 +29,7 @@ namespace Receiver2
                 });
                 config.MessageTopology.SetEntityNameFormatter(new NameFormatter());
 
-                config.ReceiveEndpoint(host, "ordercreated_queue_receiver2", e =>
+                config.ReceiveEndpoint(host, "reportdatasync_queue", e =>
                 {
                     e.Consumer<OrderCreated3Consumer>();
                     e.Consumer<OrderCreated4Consumer>();

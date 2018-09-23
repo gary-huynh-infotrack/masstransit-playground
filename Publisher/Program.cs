@@ -32,7 +32,7 @@ namespace Publisher
                     //.. send email
                     var messageId = Guid.NewGuid().ToString();
                     Console.WriteLine($"Order Created event sent: {messageId}");
-                    bus.Publish(new OrderCreated()
+                    bus.Send(new OrderCreated()
                     {
                         EmailId = messageId,
                         Body = "This is an email body",

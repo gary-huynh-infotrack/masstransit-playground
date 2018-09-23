@@ -12,11 +12,4 @@ D:\mass-transit-demo\Receiver1\bin\Debug\Core.pdb
 D:\mass-transit-demo\Receiver1\bin\Debug\Core.dll.config
 D:\mass-transit-demo\Receiver1\bin\Debug\GreenPipes.xml
 D:\mass-transit-demo\Receiver1\bin\Debug\MassTransit.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\MassTransit.RabbitMqTransport.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\NewId.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\Newtonsoft.Json.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\Newtonsoft.Json.Bson.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\RabbitMQ.Client.xml
-D:\mass-transit-demo\Receiver1\bin\Debug\System.ValueTuple.xml
 D:\mass-transit-demo\Receiver1\obj\Debug\Receiver1.csproj.CopyComplete
