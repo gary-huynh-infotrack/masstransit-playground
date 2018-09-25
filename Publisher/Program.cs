@@ -32,7 +32,7 @@ namespace Publisher
                     //.. send email
                     var messageId = Guid.NewGuid().ToString();
                     Console.WriteLine($"Order Created event sent: {messageId}");
-                    bus.Send(new OrderCreated()
+                    bus.Publish(new OrderCreated()
                     {
                         EmailId = messageId,
                         Body = "This is an email body",
@@ -47,14 +47,11 @@ namespace Publisher
         {
             return Bus.Factory.CreateUsingRabbitMq(config => 
             {
-                var host = config.Host(new Uri("rabbitmq://localhost/"), h => 
+                var host = config.Host("rabbit host", "virtual host", h =>
                 {
-                    h.PublisherConfirmation = true;
-                    h.Username("guest");
-                    h.Password("guest");
+                    h.Username("username here");
+                    h.Password("password here");
                 });
-                config.MessageTopology.SetEntityNameFormatter(new NameFormatter());
-                
             });
         }
     }

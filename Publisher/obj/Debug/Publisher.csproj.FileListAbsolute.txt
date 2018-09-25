@@ -27,3 +27,32 @@ D:\mass-transit-demo\Publisher\bin\Debug\Newtonsoft.Json.Bson.xml
 D:\mass-transit-demo\Publisher\bin\Debug\RabbitMQ.Client.xml
 D:\mass-transit-demo\Publisher\bin\Debug\System.ValueTuple.xml
 D:\mass-transit-demo\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Core.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\GreenPipes.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\MassTransit.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\MassTransit.RabbitMqTransport.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\NewId.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\System.ValueTuple.dll
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Core.pdb
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Core.dll.config
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\GreenPipes.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\MassTransit.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\MassTransit.RabbitMqTransport.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\NewId.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\System.ValueTuple.xml
+D:\Git\Forked Repos\masstransit-playground\Publisher\obj\Debug\Publisher.csprojAssemblyReference.cache
+D:\Git\Forked Repos\masstransit-playground\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
+D:\Git\Forked Repos\masstransit-playground\Publisher\obj\Debug\Publisher.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Publisher.exe.config
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Publisher.exe
+D:\Git\Forked Repos\masstransit-playground\Publisher\bin\Debug\Publisher.pdb
+D:\Git\Forked Repos\masstransit-playground\Publisher\obj\Debug\Publisher.exe
+D:\Git\Forked Repos\masstransit-playground\Publisher\obj\Debug\Publisher.pdb

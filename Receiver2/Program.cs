@@ -22,14 +22,13 @@ namespace Receiver2
         {
             return Bus.Factory.CreateUsingRabbitMq(config =>
             {
-                var host = config.Host(new Uri("rabbitmq://localhost/"), h =>
+                var host = config.Host("rabbit host", "virtual host", h =>
                 {
-                    h.Username("guest");
-                    h.Password("guest");
+                    h.Username("username here");
+                    h.Password("password here");
                 });
-                config.MessageTopology.SetEntityNameFormatter(new NameFormatter());
 
-                config.ReceiveEndpoint(host, "reportdatasync_queue", e =>
+                config.ReceiveEndpoint(host, "ordercreated_queue", e =>
                 {
                     e.Consumer<OrderCreated3Consumer>();
                     e.Consumer<OrderCreated4Consumer>();

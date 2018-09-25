@@ -13,3 +13,18 @@ D:\mass-transit-demo\Receiver1\bin\Debug\Core.dll.config
 D:\mass-transit-demo\Receiver1\bin\Debug\GreenPipes.xml
 D:\mass-transit-demo\Receiver1\bin\Debug\MassTransit.xml
 D:\mass-transit-demo\Receiver1\obj\Debug\Receiver1.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Core.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\GreenPipes.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\MassTransit.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Core.pdb
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Core.dll.config
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\GreenPipes.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\MassTransit.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver1\obj\Debug\Receiver1.csprojAssemblyReference.cache
+D:\Git\Forked Repos\masstransit-playground\Receiver1\obj\Debug\Receiver1.csproj.CoreCompileInputs.cache
+D:\Git\Forked Repos\masstransit-playground\Receiver1\obj\Debug\Receiver1.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Receiver1.exe.config
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Receiver1.exe
+D:\Git\Forked Repos\masstransit-playground\Receiver1\bin\Debug\Receiver1.pdb
+D:\Git\Forked Repos\masstransit-playground\Receiver1\obj\Debug\Receiver1.exe
+D:\Git\Forked Repos\masstransit-playground\Receiver1\obj\Debug\Receiver1.pdb

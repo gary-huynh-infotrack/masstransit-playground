@@ -18,3 +18,22 @@ D:\mass-transit-demo\Core\obj\Debug\Core.csproj.CopyComplete
 D:\mass-transit-demo\Core\obj\Debug\Core.dll
 D:\mass-transit-demo\Core\obj\Debug\Core.pdb
 D:\mass-transit-demo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Core.dll.config
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Core.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Core.pdb
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\GreenPipes.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\MassTransit.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\NewId.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\System.ValueTuple.dll
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\GreenPipes.xml
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\MassTransit.xml
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\NewId.xml
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Git\Forked Repos\masstransit-playground\Core\bin\Debug\System.ValueTuple.xml
+D:\Git\Forked Repos\masstransit-playground\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Git\Forked Repos\masstransit-playground\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Core\obj\Debug\Core.dll
+D:\Git\Forked Repos\masstransit-playground\Core\obj\Debug\Core.pdb

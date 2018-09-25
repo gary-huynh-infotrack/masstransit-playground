@@ -27,3 +27,32 @@ D:\mass-transit-demo\Receiver2\obj\Debug\Receiver2.csproj.CoreCompileInputs.cach
 D:\mass-transit-demo\Receiver2\obj\Debug\Receiver2.csproj.CopyComplete
 D:\mass-transit-demo\Receiver2\obj\Debug\Receiver3.exe
 D:\mass-transit-demo\Receiver2\obj\Debug\Receiver3.pdb
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Core.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\GreenPipes.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\MassTransit.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\MassTransit.RabbitMqTransport.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\NewId.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Newtonsoft.Json.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\RabbitMQ.Client.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\System.ValueTuple.dll
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Core.pdb
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Core.dll.config
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\GreenPipes.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\MassTransit.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\MassTransit.RabbitMqTransport.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\NewId.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Newtonsoft.Json.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\RabbitMQ.Client.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\System.ValueTuple.xml
+D:\Git\Forked Repos\masstransit-playground\Receiver2\obj\Debug\Receiver2.csprojAssemblyReference.cache
+D:\Git\Forked Repos\masstransit-playground\Receiver2\obj\Debug\Receiver2.csproj.CoreCompileInputs.cache
+D:\Git\Forked Repos\masstransit-playground\Receiver2\obj\Debug\Receiver2.csproj.CopyComplete
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Receiver2.exe.config
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Receiver2.exe
+D:\Git\Forked Repos\masstransit-playground\Receiver2\bin\Debug\Receiver2.pdb
+D:\Git\Forked Repos\masstransit-playground\Receiver2\obj\Debug\Receiver2.exe
+D:\Git\Forked Repos\masstransit-playground\Receiver2\obj\Debug\Receiver2.pdb
